@@ -23,14 +23,4 @@ Feel free to reach out if you want to talk about web development, programming, o
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](voirabroy09@gmail.com)
 
----
-
-## 📊 GitHub Stats  
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
-
----
-
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
