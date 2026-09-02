@@ -27,3 +27,18 @@ Feel free to reach out if you want to talk about web development, programming, o
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](voirabroy09@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/voirabchandraroy/voirabchandraroy/output/github-snake-dark.svg">
+
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/voirabchandraroy/voirabchandraroy/output/github-snake.svg">
+
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/voirabchandraroy/voirabchandraroy/output/github-snake.svg">
+  </picture>
+</p>
