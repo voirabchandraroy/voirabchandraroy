@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./voirab.png" alt="Voirab Chandra Roy Banner" width="100%">
+</p>
 # Hi 👋, I'm <VOIRAB CHANDRA ROY >  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
